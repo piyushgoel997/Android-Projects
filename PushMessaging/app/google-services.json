@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585239012886",
+    "firebase_url": "https://my-pushmsg-app-535d7.firebaseio.com",
+    "project_id": "my-pushmsg-app-535d7",
+    "storage_bucket": "my-pushmsg-app-535d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585239012886:android:5d2a7d081b4df44f",
+        "android_client_info": {
+          "package_name": "com.example.piyush.pushmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585239012886-1mln8mc2boct04oortal6v96g5a4e4lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.piyush.pushmessaging",
+            "certificate_hash": "8F7B12E31030C955185EE7D8AA61EED7BDCC0D74"
+          }
+        },
+        {
+          "client_id": "585239012886-6645f68qifrup1ba8udofs5qvscjqmg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0P3wDRveXWMpd5CnDcUyYI6QMYygPRGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585239012886-6645f68qifrup1ba8udofs5qvscjqmg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
